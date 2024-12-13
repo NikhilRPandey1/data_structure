@@ -10,6 +10,7 @@ The last node’s `next` is `null`, indicating the end of the list.
 ---
 
 ## **Node Structure**
+![image](https://github.com/user-attachments/assets/967392e5-971e-4249-aa42-7925b72b8c6b)
 
 ---
 
